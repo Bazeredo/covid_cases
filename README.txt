@@ -1,4 +1,6 @@
 
+Banco e visualização -- https://drive.google.com/file/d/1PMv_ecG0kIQDO1tQZkh57fHNe6EU-duL/view?usp=sharing
+
 Dataset = caso.csv.gz
 
 * acesso aos dados
